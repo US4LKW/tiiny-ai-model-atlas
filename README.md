@@ -27,7 +27,7 @@ Tiiny AI Model Store Atlas is a standalone, interactive HTML catalogue designed 
 
 ## 📥 Download & Run Locally
 
-1. **[DOWNLOAD `index.html`](https://raw.githubusercontent.com/US4LKW/tiiny-ai-model-atlas/main/index.html)**
+1. **[DOWNLOAD `index.html`]([https://raw.githubusercontent.com/US4LKW/tiiny-ai-model-atlas/main/index.html](https://github.com/US4LKW/tiiny-ai-model-atlas/releases/download/v2.1/index.html))**
 2. Save the page as **`index.html`** on your computer. If your browser displays HTML source instead of downloading it, right-click the link and choose **Save link as…**
 3. Open the saved file in a modern desktop browser (Chrome or Edge recommended for optional folder access).
 
