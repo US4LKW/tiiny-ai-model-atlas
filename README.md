@@ -23,5 +23,5 @@ An interactive, searchable local HTML catalogue and evaluation atlas for the Tii
 ## 🛠️ How to Run Locally
 
 If you want to use this atlas completely offline:
-1. Download the [index.html](https://githubusercontent.com) file from this repository.
+1. Download the [index.html](https://raw.githubusercontent.com/US4LKW/tiiny-ai-model-atlas/refs/heads/main/index.html) file from this repository.
 2. Open it in any modern web browser.
