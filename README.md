@@ -68,6 +68,7 @@ In supported browsers, grant the atlas permission to access a folder (for exampl
 - [Tiiny AI Help Center](https://help.tiiny.ai/)
 - [Tiiny AI Developer Documentation](https://dev.tiiny.ai/)
 - [Community API notes (unofficial)](https://github.com/thezolon/tiiny-api-notes)
+- [📝 Post on Tiinyverse](https://www.tiinyverse.com/posts/a350cc15-438e-45bd-b4d4-da59b9208c81)
 
 ---
 
